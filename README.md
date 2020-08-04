@@ -1,6 +1,8 @@
 BodePlotGui
 ===========
 
+I have stopped working on BodePlotGui and have developed a similar tool in JavaScript to make it more accessible (https://lpsa.swarthmore.edu/Bode/bodeDraw.html). While MATLAB is extremely powerful, it is also very expensive.
+
 A MATLAB GUI for drawing asymptotic Bode diagrams
 
 The code here is useful for people trying to learn how to draw asymptotic Bode diagrams.  The code takes as input a single-input single-output transfer function and generates the asymptotic approximation along with a description of how the approximation was developed.
