@@ -1,7 +1,7 @@
+I have stopped working on BodePlotGui and have developed a similar tool in JavaScript to make it more accessible (https://lpsa.swarthmore.edu/Bode/bodeDraw.html). While MATLAB is extremely powerful, it is also very expensive.
+
 BodePlotGui
 ===========
-
-I have stopped working on BodePlotGui and have developed a similar tool in JavaScript to make it more accessible (https://lpsa.swarthmore.edu/Bode/bodeDraw.html). While MATLAB is extremely powerful, it is also very expensive.
 
 A MATLAB GUI for drawing asymptotic Bode diagrams
 
